@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+C:\Users\KOMPUTER\source\repos\Saper AI\Saper AI\Źródło.cpp(286,14): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\KOMPUTER\source\repos\Saper AI\Saper AI\Źródło.cpp(286,11): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  Saper AI.vcxproj -> C:\Users\KOMPUTER\source\repos\Saper AI\x64\Debug\Saper AI.exe

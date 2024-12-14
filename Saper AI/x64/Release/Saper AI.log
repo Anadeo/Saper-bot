@@ -1,0 +1,10 @@
+﻿  Źródło.cpp
+C:\Users\KOMPUTER\source\repos\Saper AI\Saper AI\Źródło.cpp(40,10): warning C4101: "pentla_dziala": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\KOMPUTER\source\repos\Saper AI\Saper AI\Źródło.cpp(341,14): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\KOMPUTER\source\repos\Saper AI\Saper AI\Źródło.cpp(341,11): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Saper AI.vcxproj -> C:\Users\KOMPUTER\source\repos\Saper AI\x64\Release\Saper AI.exe
